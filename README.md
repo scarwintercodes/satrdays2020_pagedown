@@ -1,6 +1,7 @@
 # satrdays2020_pagedown
 Materials for Satrdays Chicago pagedown talk
 
+# [Satrday Chicago 2020 Slides](https://docs.google.com/presentation/d/1sIltNgEWKfoaim2jyrw8GbcoX1UuKRPQSSIhItHubEw/edit#slide=id.p)
 
 # Additional Resources:
 - [rstudio::conf 2019 slidedeck](https://slides.yihui.org/2019-rstudio-conf-pagedown.html#1) The presentation that started it all
