@@ -1,6 +1,6 @@
 # satrdays2020_pagedown
 
-# [Satrday Chicago 2020 Google Slides](https://docs.google.com/presentation/d/1sIltNgEWKfoaim2jyrw8GbcoX1UuKRPQSSIhItHubEw/edit#slide=id.p)
+# [Satrday Chicago 2020 Google Slides](https://docs.google.com/presentation/d/1BL4XwjZAxTundKNl0gSqiyE8gPyLqnMoGcook-p8w-M/edit?usp=sharing)
 
 ## Required Materials
 
